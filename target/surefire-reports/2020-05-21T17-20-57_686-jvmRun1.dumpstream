@@ -1,0 +1,117 @@
+# Created at 2020-05-21T17:21:46.409
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:396)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+
+# Created at 2020-05-21T17:21:46.877
+Unexpected IOException: 7,1,Wishlist Test Cases,Login successfully(Wishlist Test Cases),null,null,null,null,null,java.lang.NullPointerException\000A
+
+
+# Created at 2020-05-21T17:21:47.046
+Unexpected IOException with stream: 
+
+
+# Created at 2020-05-21T17:21:47.047
+Unexpected IOException with stream: [31mFailed scenarios:[0m
+
+
+# Created at 2020-05-21T17:21:47.048
+Unexpected IOException with stream: [31msrc/test/resources/features/WishlistTest.feature:18 [0m
+
+# Created at 2020-05-21T17:21:47.048
+Unexpected IOException with stream: # Login successfully
+
+
+# Created at 2020-05-21T17:21:47.049
+Unexpected IOException with stream: 
+
+
+# Created at 2020-05-21T17:21:47.050
+Unexpected IOException with stream: 1
+
+# Created at 2020-05-21T17:21:47.050
+Unexpected IOException with stream:  Scenarios (
+
+# Created at 2020-05-21T17:21:47.051
+Unexpected IOException with stream: [31m1 failed[0m
+
+# Created at 2020-05-21T17:21:47.052
+Unexpected IOException with stream: )
+
+
+# Created at 2020-05-21T17:21:47.052
+Unexpected IOException with stream: 9
+
+# Created at 2020-05-21T17:21:47.053
+Unexpected IOException with stream:  Steps (
+
+# Created at 2020-05-21T17:21:47.054
+Unexpected IOException with stream: [31m1 failed[0m
+
+# Created at 2020-05-21T17:21:47.054
+Unexpected IOException with stream: , 
+
+# Created at 2020-05-21T17:21:47.055
+Unexpected IOException with stream: [36m2 skipped[0m
+
+# Created at 2020-05-21T17:21:47.056
+Unexpected IOException with stream: , 
+
+# Created at 2020-05-21T17:21:47.057
+Unexpected IOException with stream: [32m6 passed[0m
+
+# Created at 2020-05-21T17:21:47.058
+Unexpected IOException with stream: )
+
+
+# Created at 2020-05-21T17:21:47.059
+Unexpected IOException with stream: 0m
+
+# Created at 2020-05-21T17:21:47.060
+Unexpected IOException with stream: 47.309s
+
+
+# Created at 2020-05-21T17:21:47.062
+Unexpected IOException with stream: 
+
+
+# Created at 2020-05-21T17:21:47.064
+Unexpected IOException with stream: java.lang.NullPointerException
+
+# Created at 2020-05-21T17:21:47.065
+Unexpected IOException with stream: 
+
+
+# Created at 2020-05-21T17:21:47.066
+Unexpected IOException with stream: 	at pages.ProductDetailPage.addProductToWishList(ProductDetailPage.java:51)
+
+# Created at 2020-05-21T17:21:47.067
+Unexpected IOException with stream: 
+
+
+# Created at 2020-05-21T17:21:47.069
+Unexpected IOException with stream: 	at steps.WishlistPageSteps.addProducts(WishlistPageSteps.java:82)
+
+# Created at 2020-05-21T17:21:47.070
+Unexpected IOException with stream: 
+
+
+# Created at 2020-05-21T17:21:47.070
+Unexpected IOException with stream: 	at ?.add 2 product to wishlist(file:src/test/resources/features/WishlistTest.feature:12)
+
+# Created at 2020-05-21T17:21:47.071
+Unexpected IOException with stream: 
+
+
+# Created at 2020-05-21T17:21:47.072
+Unexpected IOException with stream: 
+
+
+# Created at 2020-05-21T17:21:47.072
+Unexpected IOException: 2,1,org.apache.maven.surefire.junit4.JUnit4Provider,runners.AllTest,null,null,null
+
+

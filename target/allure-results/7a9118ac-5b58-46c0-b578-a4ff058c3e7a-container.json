@@ -1,0 +1,1 @@
+{"uuid":"7a9118ac-5b58-46c0-b578-a4ff058c3e7a","name":"Scenario Outline: Login successfully","children":["6dc3de0b-2de9-454d-b3be-155dc903c65e"],"befores":[{"name":"Hooks.openBrowser()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1589965441917,"stop":1589965448935}],"afters":[],"links":[],"start":1589965441910,"stop":1589965469640}
